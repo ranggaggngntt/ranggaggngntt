@@ -44,18 +44,18 @@ I build software across different domains, from backend services and tools to we
     <td width="50%" valign="top">
       <b>Main</b><br/>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,c,ts&amp;theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,c,ts&amp;theme=light">
-        <img alt="Python, Rust, C, TypeScript" src="https://skillicons.dev/icons?i=py,rust,c,ts&amp;theme=light" height="36">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cc%2Cts&amp;theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cc%2Cts&amp;theme=light">
+        <img alt="Python, Rust, C, TypeScript" src="https://skillicons.dev/icons?i=py%2Crust%2Cc%2Cts&amp;theme=light" height="40">
       </picture><br/>
       <sub>Python · Rust · C · TypeScript</sub>
     </td>
     <td width="50%" valign="top">
       <b>Also use</b><br/>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,cpp,go,php,bash&amp;theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cs,cpp,go,php,bash&amp;theme=light">
-        <img alt="Java, C#, C++, Go, PHP, Bash" src="https://skillicons.dev/icons?i=java,cs,cpp,go,php,bash&amp;theme=light" height="36">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Ccs%2Ccpp%2Cgo%2Cphp%2Cbash&amp;theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Ccs%2Ccpp%2Cgo%2Cphp%2Cbash&amp;theme=light">
+        <img alt="Java, C#, C++, Go, PHP, Bash" src="https://skillicons.dev/icons?i=java%2Ccs%2Ccpp%2Cgo%2Cphp%2Cbash&amp;theme=light" height="40">
       </picture><br/>
       <sub>Java · C# · C++ · Go · PHP · Bash</sub>
     </td>
@@ -64,18 +64,18 @@ I build software across different domains, from backend services and tools to we
     <td width="50%" valign="top">
       <b>Web &amp; Game</b><br/>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,nodejs,react&amp;theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unity,nodejs,react&amp;theme=light">
-        <img alt="Unity, Node.js, React" src="https://skillicons.dev/icons?i=unity,nodejs,react&amp;theme=light" height="36">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity%2Cnodejs%2Creact&amp;theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unity%2Cnodejs%2Creact&amp;theme=light">
+        <img alt="Unity, Node.js, React" src="https://skillicons.dev/icons?i=unity%2Cnodejs%2Creact&amp;theme=light" height="40">
       </picture><br/>
       <sub>Unity · Node.js · React</sub>
     </td>
     <td width="50%" valign="top">
       <b>Infra &amp; Data</b><br/>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres,git&amp;theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres,git&amp;theme=light">
-        <img alt="Linux, Docker, PostgreSQL, Git" src="https://skillicons.dev/icons?i=linux,docker,postgres,git&amp;theme=light" height="36">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cdocker%2Cpostgres%2Cgit&amp;theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux%2Cdocker%2Cpostgres%2Cgit&amp;theme=light">
+        <img alt="Linux, Docker, PostgreSQL, Git" src="https://skillicons.dev/icons?i=linux%2Cdocker%2Cpostgres%2Cgit&amp;theme=light" height="40">
       </picture><br/>
       <sub>Linux · Docker · PostgreSQL · Git</sub>
     </td>
