@@ -1,66 +1,99 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rangga%20Dwi%20Saputra&fontSize=46&fontColor=e94560&animation=fadeIn&fontAlignY=40&desc=Systems%20Engineer%20%C2%B7%20Offensive%20Security%20%C2%B7%20Backend%20Engineer&descAlignY=65&descSize=17"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Rangga Dwi Saputra" src="./assets/hero-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=E94560&center=true&vCenter=true&width=720&lines=I+build.+I+break.+I+learn.;Offensive+security+%26+backend+engineering;Go+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+TypeScript" alt="Typing SVG"/>
+<p>
+  <a href="https://www.linkedin.com/in/rangga-blaze/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg"><img alt="LinkedIn: rangga-blaze" src="./assets/btn-linkedin-light.svg" height="32"></picture></a>
+  &nbsp;
+  <a href="https://discord.com/users/833699017501835334"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/btn-discord-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/btn-discord-light.svg"><img alt="Discord: ranggahoxworth" src="./assets/btn-discord-light.svg" height="32"></picture></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Systems_Engineer-0f0c29?style=for-the-badge&labelColor=302b63&color=e94560"/>
-  <img src="https://img.shields.io/badge/Offensive_Security-0f0c29?style=for-the-badge&labelColor=302b63&color=533483"/>
-  <img src="https://img.shields.io/badge/Backend_Engineer-0f0c29?style=for-the-badge&labelColor=302b63&color=00d9ff"/>
-  <img src="https://img.shields.io/badge/timezone-UTC%2B7-0f0c29?style=for-the-badge&labelColor=302b63&color=533483"/>
-</p>
+I build software across different domains, from backend services and tools to web apps, Unity games, and Minecraft servers.
+
+### Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Backend &amp; Systems</b><br/>
+      APIs, CLI tools, automation, and native software in Python, Rust, C, and Go.
+    </td>
+    <td width="50%" valign="top">
+      <b>Web</b><br/>
+      Web apps and full-stack projects with TypeScript, Node.js, PHP, React, and PostgreSQL.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Unity</b><br/>
+      Game development, gameplay logic, and tools built in Unity with C#.
+    </td>
+    <td width="50%" valign="top">
+      <b>Minecraft</b><br/>
+      Server plugins, addons, and custom mechanics across Java, Bedrock, and PocketMine.
+    </td>
+  </tr>
+</table>
+
+### Stack
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Main</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,rust,c,ts&amp;theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,rust,c,ts&amp;theme=light">
+        <img alt="Python, Rust, C, TypeScript" src="https://skillicons.dev/icons?i=py,rust,c,ts&amp;theme=light" height="36">
+      </picture><br/>
+      <sub>Python · Rust · C · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Also use</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,cpp,go,php,bash&amp;theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,cs,cpp,go,php,bash&amp;theme=light">
+        <img alt="Java, C#, C++, Go, PHP, Bash" src="https://skillicons.dev/icons?i=java,cs,cpp,go,php,bash&amp;theme=light" height="36">
+      </picture><br/>
+      <sub>Java · C# · C++ · Go · PHP · Bash</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Web &amp; Game</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=unity,nodejs,react&amp;theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=unity,nodejs,react&amp;theme=light">
+        <img alt="Unity, Node.js, React" src="https://skillicons.dev/icons?i=unity,nodejs,react&amp;theme=light" height="36">
+      </picture><br/>
+      <sub>Unity · Node.js · React</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Infra &amp; Data</b><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres,git&amp;theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres,git&amp;theme=light">
+        <img alt="Linux, Docker, PostgreSQL, Git" src="https://skillicons.dev/icons?i=linux,docker,postgres,git&amp;theme=light" height="36">
+      </picture><br/>
+      <sub>Linux · Docker · PostgreSQL · Git</sub>
+    </td>
+  </tr>
+</table>
+
+### Stats
 
 <p align="center">
-  <a href="https://github.com/ranggaggngntt"><img src="https://img.shields.io/badge/GitHub-ranggaggngntt-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rangga-blaze/"><img src="https://img.shields.io/badge/LinkedIn-rangga--blaze-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://discord.com/users/833699017501835334"><img src="https://img.shields.io/badge/Discord-ranggahoxworth-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ranggaggngntt&amp;background=161b22&amp;border=30363d&amp;stroke=30363d&amp;ring=58a6ff&amp;fire=58a6ff&amp;currStreakNum=f0f6fc&amp;sideNums=f0f6fc&amp;currStreakLabel=58a6ff&amp;sideLabels=8b949e&amp;dates=6e7681&amp;border_radius=10&amp;disable_animations=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ranggaggngntt&amp;background=f6f8fa&amp;border=d0d7de&amp;stroke=d0d7de&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;sideNums=1f2328&amp;currStreakLabel=0969da&amp;sideLabels=57606a&amp;dates=6e7781&amp;border_radius=10&amp;disable_animations=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ranggaggngntt&amp;background=f6f8fa&amp;border=d0d7de&amp;stroke=d0d7de&amp;ring=0969da&amp;fire=0969da&amp;currStreakNum=1f2328&amp;sideNums=1f2328&amp;currStreakLabel=0969da&amp;sideLabels=57606a&amp;dates=6e7781&amp;border_radius=10&amp;disable_animations=true" height="165">
+  </picture>
 </p>
 
----
-
-<p align="center">
-  <table cellpadding="0" cellspacing="0">
-    <tr>
-      <td bgcolor="#21262d" align="left" style="padding: 10px 14px; border: 1px solid #30363d; border-bottom: none; border-radius: 8px 8px 0 0;">
-        <code><span style="color:#ff5f57">●</span> <span style="color:#febc2e">●</span> <span style="color:#28c840">●</span>&nbsp;&nbsp;ranggaggngntt@github — bash</code>
-      </td>
-    </tr>
-    <tr>
-      <td bgcolor="#0a0a0a" style="border: 1px solid #30363d; border-top: none; border-radius: 0 0 8px 8px; padding: 12px 8px 16px 8px;">
-        <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=400&size=14&duration=1800&pause=450&color=33FF00&backgroundColor=0a0a0a&center=false&vCenter=true&multiline=true&width=900&height=400&lines=ranggaggngntt%40github%3A~%24+whoami;Rangga+Dwi+Saputra;%C2%A0;ranggaggngntt%40github%3A~%24+cat+~/roles;%20%20systems+engineer;%20%20offensive+security;%20%20backend+engineer;%C2%A0;ranggaggngntt%40github%3A~%24+ls+~/stack;bash%20%20c%2B%2B%20%20docker%20%20go%20%20node%20%20python%20%20rust%20%20typescript;%C2%A0;ranggaggngntt%40github%3A~%24+ls+~/interests;automation%20%20kernel%20%20math%20%20security%20%20systems;%C2%A0;ranggaggngntt%40github%3A~%24+git+config+--get+user.motto;Learn+while+you+can.+One+day%2C+there+will+be+no+more+time.;%C2%A0;ranggaggngntt%40github%3A~%24+timedatectl+%7C+grep+%27Time+zone%27;Time+zone%3A+Asia%2FJakarta+(WIB%2C+%2B0700);%C2%A0;ranggaggngntt%40github%3A~%24+clear" alt="Linux terminal session"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/stack-21262d?style=for-the-badge&labelColor=302b63&color=e94560"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,c,cpp,py,ts,nodejs,php,cs,java,docker,linux,bash,postgres,react,git&perline=8&theme=dark"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/stats-21262d?style=for-the-badge&labelColor=302b63&color=e94560"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=ranggaggngntt&theme=radical&hide_border=true&background=0F0C29&ring=e94560&fire=533483&currStreakLabel=00d9ff"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranggaggngntt&theme=react-dark&bg_color=0f0c29&color=e94560&line=00d9ff&point=e94560&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=90&section=footer"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranggaggngntt&amp;bg_color=161b22&amp;color=8b949e&amp;line=58a6ff&amp;point=f0f6fc&amp;area=true&amp;area_color=58a6ff&amp;radius=10&amp;hide_border=true&amp;custom_title=Contribution%20Activity">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranggaggngntt&amp;bg_color=f6f8fa&amp;color=57606a&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;area_color=0969da&amp;radius=10&amp;hide_border=true&amp;custom_title=Contribution%20Activity">
+  <img alt="Contribution Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=ranggaggngntt&amp;bg_color=f6f8fa&amp;color=57606a&amp;line=0969da&amp;point=1f2328&amp;area=true&amp;area_color=0969da&amp;radius=10&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%">
+</picture>
